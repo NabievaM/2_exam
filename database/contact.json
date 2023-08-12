@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Bibi Zaxro",
+    "phoneNumber": "+998912345678",
+    "email": "Bibi@gmail.com",
+    "message": "Hammaga Salom"
+  },
+  {
+    "id": 2,
+    "name": "Munisa",
+    "phoneNumber": "+998932451423",
+    "email": "Munis@gmail.com",
+    "message": "2-foydalanuvchi"
+  }
+]
